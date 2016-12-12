@@ -1,0 +1,81 @@
+Dec 12 10:31:34:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec 12 10:31:33:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec 12 05:36:17:I:Security: ssh terminated by test from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec 12 05:27:19:E:OpenFlow: (throttling further msgs)FLOW MOD ERROR: Ctrl: 1 Transaction id:  33 (00000021) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether
+Dec 12 05:27:19:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  32 (00000020) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:27:19:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  31 (0000001f) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:27:19:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  30 (0000001e) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:27:19:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  29 (0000001d) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:27:19:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  28 (0000001c) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:27:13:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  11 (0000000b) Status: ERROR: Reason: Group id: 1 exists
+Dec 12 05:27:13:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  10 (0000000a) Status: ERROR: Reason: Group id: 2 exists
+Dec 12 05:27:13:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec 12 05:27:06:N:OpenFlow: Closed active connection with controller 172.24.119.12 port 6633.
+Dec 12 05:27:01:I:System: Interface ethernet mgmt1, state up
+Dec 12 05:26:20:I:System: Interface ethernet mgmt1, state down - unspecified
+Dec 12 05:25:47:E:OpenFlow: (throttling further msgs)FLOW MOD ERROR: Ctrl: 1 Transaction id:  25 (00000019) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether
+Dec 12 05:25:47:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  24 (00000018) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:25:47:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  23 (00000017) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:25:47:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  22 (00000016) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:25:47:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  21 (00000015) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:25:47:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  20 (00000014) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 05:25:44:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  12 (0000000c) Status: ERROR: Reason: Group id: 2 exists
+Dec 12 05:25:44:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  13 (0000000d) Status: ERROR: Reason: Group id: 1 exists
+Dec 12 05:25:43:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec 12 05:25:43:I:Security: ssh timed out from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec 12 05:24:41:N:OpenFlow: Closed active connection with controller 172.24.119.12 port 6633.
+Dec 12 05:23:44:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec 12 05:23:43:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec 12 05:23:28:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  13 (0000000d) Status: ERROR: Reason: Group id: 1 exists
+Dec 12 05:23:28:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  12 (0000000c) Status: ERROR: Reason: Group id: 2 exists
+Dec 12 05:23:28:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec 12 05:23:09:I:System: Interface ethernet mgmt1, state up
+Dec 12 05:21:40:I:System: Interface ethernet mgmt1, state down - unspecified
+Dec 12 04:43:44:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  15 (0000000f) Status: ERROR: Reason: Group id: 1 exists
+Dec 12 04:43:44:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  14 (0000000e) Status: ERROR: Reason: Group id: 2 exists
+Dec 12 04:43:43:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec 12 04:42:42:N:OpenFlow: Closed active connection with controller 172.24.119.12 port 6633.
+Dec 12 04:39:32:E:OpenFlow: (throttling further msgs)FLOW MOD ERROR: Ctrl: 1 Transaction id:  25 (00000019) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether
+Dec 12 04:39:32:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  24 (00000018) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 04:39:32:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  23 (00000017) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 04:39:32:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  22 (00000016) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 04:39:32:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  21 (00000015) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 04:39:32:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  20 (00000014) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec 12 04:39:29:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  12 (0000000c) Status: ERROR: Reason: Group id: 1 exists
+Dec 12 04:39:29:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  13 (0000000d) Status: ERROR: Reason: Group id: 2 exists
+Dec 12 04:39:28:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec 12 04:38:21:N:OpenFlow: Closed active connection with controller 172.24.119.12 port 6633.
+Dec  9 09:30:23:I:Security: ssh terminated by test from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 08:40:15:I:Security: ssh timed out from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 08:38:17:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 08:38:15:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 08:38:14:I:Security: ssh terminated by test from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:32:31:I:Security: ssh timed out from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:31:18:E:OpenFlow: (throttling further msgs)FLOW MOD ERROR: Ctrl: 1 Transaction id:  35 (00000023) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether
+Dec  9 07:31:18:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  34 (00000022) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec  9 07:31:18:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  33 (00000021) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec  9 07:31:18:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  32 (00000020) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec  9 07:31:18:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  31 (0000001f) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec  9 07:31:18:E:OpenFlow: FLOW MOD ERROR: Ctrl: 1 Transaction id:  30 (0000001e) Status: ERROR: Reason: FLOW with ctrl and out port/group action (14 0 1 0x00000000) accepted only with valid ARP Ether Type match
+Dec  9 07:31:12:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  13 (0000000d) Status: ERROR: Reason: Group id: 1 exists
+Dec  9 07:31:12:E:OpenFlow: GROUP MOD ERROR: Ctrl: 1 Transaction id:  12 (0000000c) Status: ERROR: Reason: Group id: 2 exists
+Dec  9 07:31:12:N:OpenFlow: Established active connection with controller 172.24.119.12 port 6633.
+Dec  9 07:30:33:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:30:32:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:30:05:I:System: Interface ethernet mgmt1, state up
+Dec  9 07:23:44:N:OpenFlow: Closed active connection with controller 172.24.119.12 port 6633.
+Dec  9 07:23:26:I:Security: ssh terminated by test from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:22:17:I:Security: ssh terminated by test from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:18:47:I:System: Interface ethernet mgmt1, state down - unspecified
+Dec  9 07:12:38:I:Security: ssh timed out from src IP 172.24.114.56 from USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:10:40:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 07:10:38:I:Security: ssh login by test from src IP 172.24.114.56 to USER EXEC mode using RSA as Server Host Key.
+Dec  9 05:36:59:I:Bulk operation COMPLETE: Flow mod processing will restart!
+Dec  9 05:36:59:I:Bulk operation to LP : 1 - No More Flows from Controller will be processed till Download is Complete
+Dec  9 05:36:59:D:System: Heartbeat error logging started by an event trigger
+Dec  9 05:36:59:I:System: Interface ethernet 1/4, state up
+Dec  9 05:36:59:I:System: Interface ethernet 1/2, state up
+Dec  9 05:36:43:N:System: Module up in slot 1
+Dec  9 05:34:44:N:System: Module was inserted to slot 1
+Dec  9 05:34:38:I:System: Interface ethernet 1/4, state down - card down
+--More--, next page: Space, next line: Return key, quit: Control-c
